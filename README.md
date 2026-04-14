@@ -51,5 +51,3 @@ _screenshots of key sections here. Suggested sections:_
 
 ## Conclusion
 The Ochi website is more than just a project—it's a learning experience that explores the intersection of design, performance, and interactivity. With its responsive layout, smooth animations, and modern design practices, this project showcases the power of React and animation libraries in creating engaging and visually appealing web applications.
-
-## [Oliver Felix](https://instagram.com/oliverfelix.dev)
