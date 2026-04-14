@@ -25,7 +25,7 @@ function about() {
                     <div className="column social flex items-end justify-evenly">
                         <ul>
                             <p>S:</p>
-                            <li><a href="https://instagram.com/oliverfelix.dev">Instagram</a></li>
+                            <li><a href="https://instagram.com">Instagram</a></li>
                             <li><a href="https://behance.com">Behance</a></li>
                             <li><a href="https://facebook.com">Facebook</a></li>
                             <li><a href="https://linkedin.com">LinkedIn</a></li>

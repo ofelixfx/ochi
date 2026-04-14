@@ -38,7 +38,7 @@ function Footer() {
                         </div>
                         <div className="legal-con flex items-center justify-between mt-8">
                             <span className='text-[#00000044] text-md'>&copy; Ochi Design Replica 2024. Legal Terms</span>
-                            <a className='text-[#00000044] text-md relative' href="https://instagram.com/oliverfelix.dev">Replica by <span className='text-xl font-[black-K] text-[#0009] font-semibold'>Oliver Felix</span></a>
+                            <a className='text-[#00000044] text-md relative' href="https://github.com/ofelixfx">Replica by <span className='text-xl font-[black-K] text-[#0009] font-semibold'>Oliver Felix</span></a>
                         </div>
                     </div>
                 </div>
